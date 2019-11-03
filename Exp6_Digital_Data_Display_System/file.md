@@ -1,4 +1,4 @@
-# Experiment 7 – Programmable Digital Data Display System
+# Experiment 6 – Programmable Digital Data Display System
 
 
 ## Aim:
