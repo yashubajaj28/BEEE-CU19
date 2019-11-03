@@ -10,7 +10,7 @@ Arduino Board, Resistance - 220ohm, Breadboard, Wires, LCD, Potentiometer.
 ## Theory:
 **Concepts Used -**\
 ***LCD:***\
-LCD (Liquid Crystal Display) is a type of flat panel display which uses liquid crystals in its primary form of operation. LEDs have a large and varying set of use cases for consumers and businesses, as they can be commonly found in smartphones, televisions, computer monitors and instrument panels.\
+LCD or Liquid Crystal Display is a type of flat panel display which uses liquid crystals in its primary form of operation. LEDs have a large and varying set of use cases for consumers and businesses, as they can be commonly found in smartphones, televisions, computer monitors and instrument panels.\
 
 **Learning and Observations -**
 1. We can recognize the positive and negative terminals of an LED even without using a Multimeter. The longer leg of the LED is the positive terminal (or the anode) and the smaller leg is the negative terminal (or the cathode).
